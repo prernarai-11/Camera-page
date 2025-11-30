@@ -1,100 +1,91 @@
-📷 Camera UI Dashboard
-📌 Overview
-This project is an interactive Camera UI Dashboard built with HTML and CSS.
-It features a sleek sidebar navigation menu with smooth animations and a professional camera interface design.
+# 📷 Camera UI Dashboard
 
-🔍 Key Features
-Built a fully responsive sidebar with smooth slide-in/slide-out animations
+## 📌 Overview
+This project is an interactive **Camera UI Dashboard** built with **HTML and CSS**.  
+It features a sleek sidebar navigation menu with smooth animations and a professional camera-inspired interface.
 
-Implemented checkbox hack for toggle functionality without JavaScript
+---
 
-Customized icons and social media links with hover effects
+## 🔍 Key Features
+- Fully responsive sidebar with smooth slide-in/slide-out animations  
+- **Checkbox hack** for toggle functionality (no JavaScript needed)  
+- Custom icons and social media links with hover effects  
+- Smooth transitions for enhanced user experience  
+- Glassmorphism-style design  
+- Mobile-friendly hamburger menu  
 
-Used CSS transitions for smooth user interactions
+---
 
-Glassmorphism design with semi-transparent backgrounds
+## 🛠 Technologies Used
+- **HTML5**  
+- **CSS3** (Flexbox, Transitions, Transformations)  
+- **Font Awesome Icons**  
+- **Google Fonts (Poppins)**  
+- **CSS Variables**  
 
-Mobile-friendly hamburger menu
+---
 
-🛠 Technologies Used
-HTML5
+## 📁 Project Structure
+| File Name | Description |
+|----------|-------------|
+| `camera page.html` | Main HTML Structure |
+| `camera page.css` | Styling and Animations |
+| `photo.jpg` | Background Image |
 
-CSS3 (Flexbox, Transitions, Transformations)
+---
 
-Font Awesome Icons
+## 🎨 Design Elements
+### Sidebar Navigation Includes:
+- Gallery  
+- Shortcuts  
+- Exhibits  
+- Events  
+- Store  
+- Contact  
+- Feedback  
 
-Google Fonts (Poppins)
+### Additional UI Features
+- Social media icons (Facebook, Twitter, Instagram, YouTube)  
+- Smooth hover effects  
+- Clean white–grey color theme  
+- Animated close/hamburger buttons  
 
-CSS Variables and Modern Layout Techniques
+---
 
-📁 Project Structure
-camera page.html - Main HTML structure
+## 🚀 How to Use
+1. Clone or download the project  
+2. Open **camera page.html** in your browser  
+3. Click the **☰ hamburger menu** to toggle the sidebar  
+4. Explore the UI and hover animations  
 
-camera page.css - All styling and animations
+---
 
-photo.jpg - Background image with camera UI elements
+## ⚡ Interactive Features
+- Sidebar toggle animation  
+- Icon hover scale + color transitions  
+- Social media icon animations  
+- Close button appears when sidebar is open  
 
-🎨 Design Elements
-Sidebar Navigation with 7 main menu items:
+---
 
-Gallery
+## 🔧 Customization
+- Change colors using CSS variables  
+- Add/remove menu items via HTML  
+- Replace background image (`photo.jpg`)  
+- Adjust animation timing in CSS  
 
-Shortcuts
+---
 
-Exhibits
+## 🌟 Future Enhancements
+- Add JavaScript for advanced interactivity  
+- Add dark/light mode toggle  
+- More camera-style UI features  
+- Backend integration  
+- Better responsiveness across screen sizes  
 
-Events
+---
 
-Store
+## 👩‍💻 Author
+**PRERNA RAI**  
+➡️ <a href="https://www.linkedin.com/in/prerna-rai-11j/">LinkedIn Profile</a>
 
-Contact
-
-Feedback
-
-Social Media Links (Facebook, Twitter, Instagram, YouTube)
-
-Smooth Hover Effects on all interactive elements
-
-Professional Color Scheme with white and grey accents
-
-🚀 How to Use
-Clone or download the project files
-
-Open camera page.html in any modern web browser
-
-Click the hamburger menu icon (☰) to toggle the sidebar
-
-Explore the navigation menu and hover effects
-
-⚡ Interactive Features
-Hamburger Menu Toggle - Smooth slide animation
-
-Icon Hover Effects - Scale and color transitions
-
-Social Media Links - Opacity and scale transformations
-
-Close Button - Appears when sidebar is active
-
-🔧 Customization
-Modify colors in CSS variables
-
-Add new menu items in the HTML structure
-
-Change background image by replacing photo.jpg
-
-Adjust animation timing in transition properties
-
-🌟 Future Enhancements
-Add JavaScript for enhanced interactivity
-
-Implement dark/light mode toggle
-
-Add more camera-specific UI elements
-
-Create responsive breakpoints for different screen sizes
-
-Integrate with a backend for dynamic content
-
-👨‍💻 Author
-PRERNA RAI 
-<a href="https://www.linkedin.com/in/prerna-rai-11j/">LinkedIn Profile</a>
